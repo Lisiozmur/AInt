@@ -1,0 +1,9 @@
+{
+    "name": "cwiczenie/kalkulator-kredytowy",
+    "description": "Projekt MVC z Smarty dla XAMPP",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "smarty/smarty": "^5.0"
+    }
+}
