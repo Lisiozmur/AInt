@@ -1,0 +1,6 @@
+{
+    "name": "cwiczenie/kalkulator-kredytowy",
+    "description": "PHP MVC: jeden front controller, autoload i Smarty",
+    "type": "project",
+    "require": {"php": ">=8.1", "smarty/smarty": "^5.0"}
+}
